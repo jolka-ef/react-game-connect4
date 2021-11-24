@@ -1,0 +1,12 @@
+:root {
+  --text-color: #333;
+  --text-color-flip: #fff;
+
+  --bg-color: #fefefe;
+  --dark-bg-color: #50a6af ;
+  --blunt-bg-color: #e4be41;
+
+  --shadow: 0 0 .625em .3125em  #50a6af;
+  --material-easing: cubic-bezier(.4,0,.2,1);
+}
+

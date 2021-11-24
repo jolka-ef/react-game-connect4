@@ -1,0 +1,43 @@
+.Headers {
+  font-size: 1px;
+  visibility: collapse;
+}
+
+.Table {
+  border-collapse : collapse;
+  border-spacing: 0;
+  table-layout: fixed;
+  width: 100%;
+}
+
+.TableCell {
+  color: var(--bg-color);
+  padding:0;
+}
+
+.TableCol {
+  background-color: var(--dark-bg-color);
+}
+
+.TableColHighlight {
+  background-color: var(--blunt-bg-color);
+  transition: background-color .1s var(--material-easing);
+}
+
+.TableContainer {
+  flex: 1 0 0%;
+}
+
+.TableContent {
+  box-shadow: 0 0 10px 5px var(--dark-bg-color);
+}
+
+.Title {
+  caption-side: bottom;
+  font-size: 1.5em;
+  padding: .5em 0;
+  text-transform: uppercase;
+}
+
+
+
