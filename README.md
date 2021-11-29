@@ -17,8 +17,8 @@ You can learn more in the [Create React App documentation](https://facebook.gith
 
 ```sh
 # Clone the git repository and cd into the cloned directory.
-git clone https://github.com/jfirlejczyk/project-draw.git
-cd project-draw
+git clone https://github.com/jolka-ef/react-game-connect4.git
+cd react-game-connect4
 
 # Install the dependencies
 npm install
