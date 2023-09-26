@@ -1,0 +1,42 @@
+*, *::before, *::after {
+  box-sizing: border-box;
+  font: inherit;
+  list-style: none;
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  background-color: #fefefe;
+  box-sizing: border-box;
+  color: var(--text-color);
+  font: 1em/1.5 system-ui;
+  -webkit-font-smoothing: antialiased;
+  margin: 0;
+  overflow-x: hidden;
+  overflow-y: scroll;
+}
+
+button::-moz-focus-inner{
+  border: none;
+}
+
+main, header, footer, nav, aside {
+  display: block;
+}
+
+main {
+  margin: 0 auto;
+  max-width: 44em;
+  padding: 1em;
+}
+
+
+h1,
+h2,
+h3,
+h4 {
+  font-weight: 500;
+  line-height: 1.1;
+  margin: 1em 0;
+}

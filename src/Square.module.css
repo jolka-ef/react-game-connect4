@@ -1,0 +1,22 @@
+.Button {
+  background: transparent;
+  border: none;
+  color: inherit;
+  display: block;
+  padding: 0;
+  width: 100%;
+}
+
+.Button:active,
+.Button:focus,
+.Button:hover {
+  outline: none;
+}
+.Circle {
+  pointer-events : none;
+}
+
+.Winner {
+  box-shadow: 0 0 3em 0 inset #e4be41;
+
+}
