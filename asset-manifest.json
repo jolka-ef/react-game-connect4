@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/react-game-connect4/static/css/main.cb953ed7.chunk.css",
+    "main.js": "/react-game-connect4/static/js/main.b01108c9.chunk.js",
+    "main.js.map": "/react-game-connect4/static/js/main.b01108c9.chunk.js.map",
+    "runtime~main.js": "/react-game-connect4/static/js/runtime~main.8c5820b1.js",
+    "runtime~main.js.map": "/react-game-connect4/static/js/runtime~main.8c5820b1.js.map",
+    "static/js/2.699dcc91.chunk.js": "/react-game-connect4/static/js/2.699dcc91.chunk.js",
+    "static/js/2.699dcc91.chunk.js.map": "/react-game-connect4/static/js/2.699dcc91.chunk.js.map",
+    "index.html": "/react-game-connect4/index.html",
+    "precache-manifest.969d70b786c1b26049b7074443e398e3.js": "/react-game-connect4/precache-manifest.969d70b786c1b26049b7074443e398e3.js",
+    "service-worker.js": "/react-game-connect4/service-worker.js",
+    "static/css/main.cb953ed7.chunk.css.map": "/react-game-connect4/static/css/main.cb953ed7.chunk.css.map"
+  }
+}
